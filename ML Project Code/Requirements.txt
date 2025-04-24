@@ -1,0 +1,3 @@
+Requirements
+
+It's necessary to have MATLAB R2024a (or a higher version) installed to generate/change data.  Otherwise, the rest of the code can be run with just  Python code editor or Google Colab.
